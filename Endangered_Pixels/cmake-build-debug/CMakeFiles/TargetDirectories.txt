@@ -1,0 +1,3 @@
+/Users/michaelspagna/Programming/C++/Endangered_Pixels/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michaelspagna/Programming/C++/Endangered_Pixels/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michaelspagna/Programming/C++/Endangered_Pixels/cmake-build-debug/CMakeFiles/Endangered_Pixels.dir
