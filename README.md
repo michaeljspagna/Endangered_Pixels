@@ -39,8 +39,7 @@ https://www.ifaw.org/
 
 RUNNING THE PROJECT:
 
-A make file has been provided so cd into the Endangered_Pixels folder
-make -cpp main.cpp
+Use included make file to run this project
 
 When using your own image input please use only 8 or 24 bit .png images for now 
 The population must also be smaller than the total number of pixels in the image
